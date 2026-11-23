@@ -26,7 +26,7 @@ The platform provides a guided kiosk experience where patients can register, sha
 ![Privacy and Consent](screenshots/05-privacy-and-consent.png)
 
 ### 6. Voice-Based Symptom Input
-![Symptom Input](screenshots/06-symptom-voice-input.png)
+![Symptom Input](screenshots/ 06-symptom-voice-input.png)
 
 ### 7. Interactive Body Pain Mapping
 ![Body Pain Mapping](screenshots/07-body-pain-mapping.png)
