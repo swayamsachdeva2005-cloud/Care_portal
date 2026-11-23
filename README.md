@@ -34,9 +34,6 @@ The platform provides a guided kiosk experience where patients can register, sha
 ### 8. Medical Document Scanning
 ![Document Scanning](screenshots/08-document-scanning.png)
 
-### 9. Document Processing
-![Document Processing](screenshots/09-document-processing.png)
-
 ---
 
 ## Key Features
