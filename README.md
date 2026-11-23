@@ -23,7 +23,7 @@ The platform provides a guided kiosk experience where patients can register, sha
 ![ABHA Verification](screenshots/04-abha-verification.png)
 
 ### 5. Privacy and Consent
-![Privacy and Consent](screenshots/05-privacy-and-consent.png)
+![Privacy and Consent](screenshots/voice.jpeg)
 
 ### 6. Voice-Based Symptom Input
 ![Privacy and Consent](screenshots/06-symptom-voice-input.png)
